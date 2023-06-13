@@ -12,9 +12,14 @@ In this case study, I delve into the world of Tiny Shop, a charming local store 
 The dataset comprises four essential tables: "Customers", "Products", "Orders" and "Order_items." 🛍️
 
 🔹 Which product has the highest price?
+
+
 🔹 Which customer has made the most orders?
+
 🔹What’s the total revenue per product?
+
 🔹 Find the day with the highest revenue.
+
 🔹 When is the peak sales season for Tiny Shop?
 
 By employing SQL queries tailored to answer these questions, I gain a deeper understanding of Tiny Shop's product performance, revenue streams, customer loyalty, and sales trends. 🚀
